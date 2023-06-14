@@ -1,16 +1,35 @@
-### Hi there 👋
+<html>
+<head>
+    <title>My Web Page</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Web Page</h1>
+    </header>
 
-<!--
-**victor-dv/victor-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
 
-Here are some ideas to get you started:
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>Hello, my name is John Doe. I am a web developer.</p>
+        </section>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        <section>
+            <h2>Contact Information</h2>
+            <p>Email: john@example.com</p>
+            <p>Phone: 123-456-7890</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 My Web Page. All rights reserved.</p>
+    </footer>
+</body>
+</html>
