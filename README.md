@@ -4,6 +4,7 @@
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-de-souza-7442a0267)
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-dv&show_icons=true&theme=dracula)
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-dv&show_icons=true&theme=transparent)
 
 ### Tecnologias que eu utilizo no dia a dia
 
