@@ -1,4 +1,4 @@
-### Olá, eu sou o João Victor👾
+### Olá, eu sou o João Victor
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/victords.__?igshid=MmU2YjMzNjRlOQ==)
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-de-souza-7442a0267)
