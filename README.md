@@ -16,6 +16,14 @@
    <img align="center" alt="java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br/>
 
+###Sistemas Operacionais
+<div style=" inline_block"><br/>
+ <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+ <img align="center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+ 
+  
+</div><br/>
+
 Apaixonado por tecnologia, sou estudante de desenvolvimento de sistemas e estou cursando
 o segundo semstre na instituição SENAI.
 
