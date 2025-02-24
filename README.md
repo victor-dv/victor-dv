@@ -26,8 +26,7 @@
  
 </div><br/>
 
-Apaixonado por tecnologia, sou estudante de desenvolvimento de sistemas e estou cursando
-o segundo semstre na instituição SENAI.
+
 
 
 
